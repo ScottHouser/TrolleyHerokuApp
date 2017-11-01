@@ -11,5 +11,14 @@
     "author": "apprentice",
     "contributors": [
     ],
-    "dependencies": {}
+    "dependencies": {"express": "4.14.1"},
+    "keywords": [
+    "example",
+    "heroku"
+  ],"engines": {
+    "node": "4.2.6"
+  },
+  "scripts": {
+  "start": "nodejs app.js"
+}
 }
