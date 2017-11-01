@@ -19,6 +19,6 @@
     "node": "4.2.6"
   },
   "scripts": {
-  "start": "nodejs app.js"
+  "start": "node app.js"
 }
 }
